@@ -1,0 +1,28 @@
+.p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    
+
+}
+.p1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+.p2{ font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+   
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.img1{
+    height:80vh;
+}
